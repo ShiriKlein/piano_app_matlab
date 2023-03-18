@@ -5,7 +5,7 @@ This is a piano application implemented in Matlab that provides users with the a
 
 ### Features
 * Calculates frequency for each note and adds harmonics for richer sound
-![title](images/Picture3.png)
+![title](images/Picture2.png)
 * Edit sound amplitude in the timeline
 * Apply convolution with impulse response and low pass filter for sound customization
 * Save created tunes into excel files for later playback

@@ -1,4 +1,6 @@
 # Piano Application in Matlab
+![title](images/Picture1.png)
+
 This is a piano application implemented in Matlab that provides users with the ability to play the piano keyboard and save a melody for later playback.
 
 ### Features
